@@ -1,4 +1,4 @@
-index,timestamp,Air Humidity
+index,timestamp,AirHumidity
 333105,2022-10-01 00:00:35,50.69
 333106,2022-10-01 00:01:35,50.75
 333107,2022-10-01 00:02:35,50.67
