@@ -1,4 +1,4 @@
-index,timestamp,Barometric Pressure in kPa (MPL3115A2 - Barometric Pressure)
+index,timestamp,BarometricPressure
 4221,2022-02-02 20:55:00,76.73
 4222,2022-02-02 20:56:00,76.76
 4223,2022-02-02 20:56:35,76.74
