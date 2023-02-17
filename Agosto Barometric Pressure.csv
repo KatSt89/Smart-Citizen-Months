@@ -1,4 +1,4 @@
-index,timestamp,Barometric Pressure
+index,timestamp,BarometricPressure
 247594,2022-08-01 00:02:01,77.91
 247595,2022-08-01 00:03:07,77.9
 247596,2022-08-01 00:04:11,77.9
