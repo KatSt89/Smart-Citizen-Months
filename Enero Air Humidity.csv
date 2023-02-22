@@ -1,4 +1,4 @@
-index,timestamp,Air Humidity
+index,timestamp,AirHumidity
 0,2022-01-07 15:29:04,51.54
 1,2022-01-07 15:30:04,51.33
 2,2022-01-07 15:31:04,51.23

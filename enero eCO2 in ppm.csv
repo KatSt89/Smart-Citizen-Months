@@ -1,4 +1,4 @@
-index,timestamp,eCO2 in ppm
+index,timestamp,eCO2inppm
 0,2022-01-07 15:29:04,400.0
 1,2022-01-07 15:30:04,400.0
 2,2022-01-07 15:31:04,400.0
